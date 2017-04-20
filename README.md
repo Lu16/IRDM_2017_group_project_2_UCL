@@ -1,4 +1,4 @@
-# IRDM_2017_group_project_2_UCL
+# IRDM_2017_GroupProject2_Group32_UCL
 
 Code for Deep Learning Models 
 ---------------------------------------
