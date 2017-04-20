@@ -16,9 +16,9 @@ GRUmodel_noqid_load&score.py----code for loading, testing and generating the tes
 CNN_qid.py			----code for training ConvNet with 137 features including qid
 
 CNN_no_qid.py			----code for training ConvNet with 136 features not including qid
-=========================================================================
 
 Code for Metrics & Logistic Regression
+------------------------------------------
 
 Kendalltau.py		----code for calculating mean Kendall's tau score on all queries in the test data given the test model score and the true test score
 
