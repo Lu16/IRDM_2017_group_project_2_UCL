@@ -1,5 +1,5 @@
 # IRDM_2017_GroupProject2_Group32_UCL
-
+IRDM_2017_GroupProject2_Group32_UCL.zip ----ZIP file which includes all code files of group 32: 
 Code for Deep Learning Models 
 ---------------------------------------
 XgBoost.py 		----xgboost classifier(unable to run due to unfixed bug of xgboost classifier in multiclass case)
