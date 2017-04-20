@@ -22,7 +22,7 @@ Code for Metrics & Logistic Regression
 
 Kendalltau.py		----code for calculating mean Kendall's tau score on all queries in the test data given the test model score and the true test score
 
-NDCG\@K.py		---- code for calculating mean NDCG@K value of all queries within a specified file
+NDCG@K.py		---- code for calculating mean NDCG@K value of all queries within a specified file
 
 LR_TF.py		----logistic regression implemented by tensorflow
 
